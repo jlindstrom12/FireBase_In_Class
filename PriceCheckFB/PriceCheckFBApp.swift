@@ -4,7 +4,8 @@
 // Qapla'
 
 import SwiftUI
-// import Firebase modules here
+import FirebaseFirestore
+import Firebase
 
 
 class AppDelegate: NSObject, UIApplicationDelegate {
